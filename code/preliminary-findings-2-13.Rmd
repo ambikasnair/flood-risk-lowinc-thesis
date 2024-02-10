@@ -1,0 +1,8 @@
+---
+title: "preliminary-findings"
+author: "Ambika Nair"
+date: "2024-02-10"
+output: html_document
+---
+
+# Document to Present Exploratory Data Analysis
